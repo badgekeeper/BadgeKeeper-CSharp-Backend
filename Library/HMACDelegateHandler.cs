@@ -1,4 +1,8 @@
-﻿using System;
+﻿/**
+ * Copyright Badge Keeper 2015
+ * Licensed under The MIT License (http://www.opensource.org/licenses/mit-license.php)
+ */
+using System;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;

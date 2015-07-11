@@ -1,4 +1,8 @@
-﻿using System.Text;
+﻿/**
+ * Copyright Badge Keeper 2015
+ * Licensed under The MIT License (http://www.opensource.org/licenses/mit-license.php)
+ */
+using System.Text;
 using System.Net;
 using System.Net.Http;
 using System.Net.Http.Headers;
